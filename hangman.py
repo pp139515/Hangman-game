@@ -95,6 +95,6 @@ def hangman():
 name=input("Enter your name =")
 print("Welcome",name)
 print("**************************")
-print("Try to guess the character from Friends and HIMYM  Sitcoms in less thean 10 attempts")
+print("Try to guess the character from Friends and HIMYM  Sitcoms in less then 10 attempts")
 hangman()
 print()
